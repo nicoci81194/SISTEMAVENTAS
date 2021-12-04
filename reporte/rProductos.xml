@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl"><name>ConexionBD01</name><driver>com.mysql.jdbc.Driver</driver><username>root</username><password>mysql</password><savePassword>true</savePassword><url>jdbc:mysql://localhost/sistema_ventas</url><database></database><serverAddress></serverAddress><classpath>C:\Users\Usuaria\Desktop\PROYECTO_IML\ProjectSistemaHostalMD\Librerias\mysql-connector-java-8.0.26.jar</classpath></jdbcDataAdapter>
